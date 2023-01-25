@@ -204,7 +204,7 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 
 ```
 ## Output:
-![OUTPUT](./out1.png)
+![OUTPUT](./ou1.png)
 
 ![OUTPUT](./out2.png)
 
